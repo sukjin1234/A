@@ -1,0 +1,3 @@
+3주차
+linux 명령어 기초 복습 (touch ls cat)
+git 명령어 기초 복습 (init add commit log status push 등)

@@ -1,3 +1,11 @@
 3주차
 linux 명령어 기초 복습 (touch ls cat)
+cd .. (현재 폴더에서 상위 폴더로 이동)
+
 git 명령어 기초 복습 (init add commit log status push 등)
+git clone "원격리포지토리 주소" .
+git config -- list --설정된 목록 보여줌 
+
+기존의 원격리포지토리 주소를 변경하려면 삭제를 해야한다.
+git remote remove origin
+git remote add origin "연결할 원격리포지토리 주소"
